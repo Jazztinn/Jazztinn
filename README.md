@@ -65,7 +65,7 @@ I build things — mostly web apps, sometimes games, occasionally something that
 
 ## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jazztinn&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jazztinn&show_icons=true&hide_border=true&theme=transparent&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jazztinn&layout=compact&hide_border=true&theme=transparent)
 
 <br>
