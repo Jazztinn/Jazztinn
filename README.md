@@ -56,10 +56,7 @@ I build things — mostly web apps, sometimes games, occasionally something that
 
 ## Certifications
 
-- GitHub Foundations
-- IT Specialist – Software Development
-- IT Specialist – Databases
-- AI Engineer for Developers
+
 
 <br>
 
