@@ -61,7 +61,6 @@ I build things — mostly web apps, sometimes games, occasionally something that
 <br>
 
 ## GitHub
-![Snake animation](https://raw.githubusercontent.com/Jazztinn/Jazztinn/output/github-contribution-grid-snake-dark.svg)
 ![GitHub Stats](https://streak-stats.demolab.com?user=Jazztinn&hide_border=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jazztinn&layout=compact&hide_border=true&theme=transparent)
 
