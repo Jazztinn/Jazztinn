@@ -16,7 +16,7 @@ I build things — mostly web apps, sometimes games, occasionally something that
 | **Languages** | [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java,python,nodejs&perline=7)](https://skillicons.dev) |
 | **Frameworks** | [![Frameworks](https://skillicons.dev/icons?i=react&perline=7)](https://skillicons.dev) |
 | **Data & Cloud** | [![Data](https://skillicons.dev/icons?i=mysql,firebase,azure,gcp&perline=7)](https://skillicons.dev) |
-| **Tools & Design** | [![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,ps,pr,godot,blender,notion&perline=9)](https://skillicons.dev) |
+| **Tools & Design** | [![Tools](https://skillicons.dev/icons?i=figma,ps,pr,godot,blender,notion,vite&perline=9)](https://skillicons.dev) |
 | **Environment** | [![Env](https://skillicons.dev/icons?i=windows,apple,ubuntu&perline=7)](https://skillicons.dev) |
 
 ## Certifications
