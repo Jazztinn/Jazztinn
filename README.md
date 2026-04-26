@@ -16,10 +16,6 @@ I build things — mostly web apps, sometimes games, occasionally something that
 
 <br>
 
-## Certifications
-
-<br>
-
 ## GitHub
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jazztinn&hide_border=true&theme=transparent)
