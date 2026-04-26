@@ -1,10 +1,5 @@
 # Jazztinn Kyle G. Legaspi
-
-CS student @ **Lyceum of the Philippines University – Cavite**, specializing in Software Engineering.  
-Founder of **JPCS LPU-C Chapter**.
-
 ---
-
 I build things — mostly web apps, sometimes games, occasionally something that has no practical purpose but was fun to make. I care about writing code that's clean, intentional, and ships.
 
 <br>
