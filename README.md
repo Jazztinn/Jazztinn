@@ -1,4 +1,4 @@
-# Jazztinn Kyle G. Legaspi
+#
 ---
 <br>
 
