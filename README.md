@@ -1,6 +1,10 @@
-#under construction
+# Jazztinn
+
+I build things for the web. Sometimes they work on the first try. I don't talk about the other times.
+
+Currently somewhere between "this is fine" and "I should refactor this."
+
 ---
-<br>
 
 ## Stack
 
