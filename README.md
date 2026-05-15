@@ -1,8 +1,16 @@
-# Jazztinn
+<div align="center">
 
-I build things for the web. Sometimes they work on the first try. I don't talk about the other times.
+# under construction
 
-Currently somewhere between "this is fine" and "I should refactor this."
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Hi!+I'm+Jazztinn%2C+exploring+CS+at+LPU-C.;I'm+a+self+proclaimed+'creator'.;I+like+building+awesome+things.;Reach+out!" alt="Typing SVG" />
+
+Hi! I'm Jazztinn, exploring CS at LPU-C. I'm a self proclaimed "creator", and I like building awesome things. Reach out!
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jazztinn&style=flat-square&color=grey)
+
+</div>
 
 ---
 
@@ -16,17 +24,47 @@ Currently somewhere between "this is fine" and "I should refactor this."
 | **Tools & Design** | [![Tools](https://skillicons.dev/icons?i=figma,ps,pr,godot,blender,notion&perline=9)](https://skillicons.dev) |
 | **Environment** | [![Env](https://skillicons.dev/icons?i=windows,apple,ubuntu&perline=7)](https://skillicons.dev) |
 
-<br>
+---
 
 ## GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jazztinn&hide_border=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jazztinn&layout=compact&hide_border=true&theme=transparent)
+<div align="center">
 
-<br>
+![GitHub Streak](https://streak-stats.demolab.com?user=Jazztinn&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jazztinn&layout=compact&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jazztinn&show_icons=true&hide_border=true&theme=transparent&hide_rank=false)
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jazztinn&theme=flat&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jazztinn&theme=minimal&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
 
 ## Contact
 
-- **GitHub** — [github.com/Jazztinn](https://github.com/Jazztinn)
-- **LinkedIn** — [linkedin.com/in/jazztinn](https://www.linkedin.com/in/jazztinn/)
-- **Email** — legaspijazztinnkyle@gmail.com
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Jazztinn-black?style=flat-square&logo=github)](https://github.com/Jazztinn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jazztinn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jazztinn/)
+[![Email](https://img.shields.io/badge/Email-legaspijazztinnkyle@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:legaspijazztinnkyle@gmail.com)
+
+</div>
