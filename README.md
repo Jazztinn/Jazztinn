@@ -32,19 +32,6 @@ Hi! I'm Jazztinn, exploring CS at LPU-C. I'm a self proclaimed "creator", and I 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jazztinn&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jazztinn&layout=compact&hide_border=true&theme=transparent)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jazztinn&show_icons=true&hide_border=true&theme=transparent&hide_rank=false)
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jazztinn&theme=flat&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
