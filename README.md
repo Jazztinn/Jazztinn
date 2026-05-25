@@ -36,10 +36,7 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jazztinn&background=FFFFFF10)
-</div>
-
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jazztinn&theme=dark)</div>
 
 ## Activity
 
