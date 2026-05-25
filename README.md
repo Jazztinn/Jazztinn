@@ -36,8 +36,7 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jazztinn&hide_border=true&theme=transparent)
-
+![GitHub Streak]<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 </div>
 
 ---
