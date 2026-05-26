@@ -16,6 +16,7 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 ## Stack
 
+<div align="center">
 | Category | Technologies |
 |---|---|
 | **Languages** | [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java,python,nodejs&perline=7)](https://skillicons.dev) |
@@ -36,6 +37,7 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 ## GitHub
 
+<div align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jazztinn&theme=dark)
 
 ## Activity
