@@ -15,7 +15,7 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 ---
 
 ## Stack
-<center>
+
 | Category | Technologies |
 |---|---|
 | **Languages** | [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java,python,nodejs&perline=7)](https://skillicons.dev) |
@@ -23,7 +23,8 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 | **Data & Cloud** | [![Data](https://skillicons.dev/icons?i=supabase,mysql,firebase,azure,gcp&perline=7)](https://skillicons.dev) |
 | **Tools & Design** | [![Tools](https://skillicons.dev/icons?i=figma,ps,pr,godot,blender,notion&perline=9)](https://skillicons.dev) |
 | **Environment** | [![Env](https://skillicons.dev/icons?i=windows,apple,ubuntu&perline=7)](https://skillicons.dev) |
-</center>
+
+---
 ## Certificates & Badges
 
 <div align="center">
@@ -36,9 +37,9 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 ## GitHub
 
-<center>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jazztinn&theme=dark)
-</center>
+  
+---
 
 ## Activity
 
