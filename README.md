@@ -26,11 +26,9 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 ## Certificates & Badges
 
-| Certification | Badge |
-|---|---|
-| AWS/Cloud Certification | [![Credly Badge](https://images.credly.com/size/680x680/images/your-badge-id.png)](https://www.credly.com/badges/01225a20-dd97-4629-8994-0f22be5b3d9f) |
-
-> 📌 View all badges on [Credly Profile](https://www.credly.com/users/jazztinn)
+<div align="center">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="01225a20-dd97-4629-8994-0f22be5b3d9f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
 
 ---
 
