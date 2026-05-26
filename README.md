@@ -27,9 +27,7 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 ## Certificates & Badges
 
 <div align="center">
-<a href="https://www.credly.com/badges/01225a20-dd97-4629-8994-0f22be5b3d9f">
-<img src="https://images.credly.com/size/680x680/images/YOUR-BADGE-IMAGE.png" alt="Your Certification Badge" width="200">
-</a>
+[View on Credly](https://www.credly.com/badges/01225a20-dd97-4629-8994-0f22be5b3d9f)
 </div>
 
 ---
