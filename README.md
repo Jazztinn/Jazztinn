@@ -35,12 +35,6 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 ---
 
-## GitHub
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jazztinn&theme=dark)
-  
----
-
 ## Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jazztinn&theme=minimal&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
