@@ -32,6 +32,7 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 <img src="https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" alt="Python Badge" width="200">
 <img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" alt="Junior Cybersecurity Analyst Badge" width="200">
 <img src="https://images.credly.com/images/fd262680-b0e1-41e0-bd03-6f9ea2b0c4e8/image.png" alt="C++ Essentials 1" width="200">
+<img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics" width="200">
 
 </a>
 </div>
