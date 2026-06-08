@@ -38,7 +38,3 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 </div>
 
 ---
-
-## Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jazztinn&theme=minimal&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
