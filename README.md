@@ -36,16 +36,19 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 ### Major Certifications
 
-<a href="https://www.credly.com/badges/01225a20-dd97-4629-8994-0f22be5b3d9f" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" alt="Python Badge" width="120" style="margin-bottom: 20px;"/>
-</a>
+| |
+| :---: |
+| <a href="https://www.credly.com/earner/earned/badge/01225a20-dd97-4629-8994-0f22be5b3d9f" target="_blank"><img src="https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" alt="Python Badge" width="120"/></a> |
+| **[Information Technology Specialist: Python](https://www.credly.com/earner/earned/badge/01225a20-dd97-4629-8994-0f22be5b3d9f)** |
+
+<br>
 
 ### Minor Certifications
 
 | | | | |
 | :---: | :---: | :---: | :---: |
-| <img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" alt="Junior Cybersecurity Analyst Badge" width="95"> | <img src="https://images.credly.com/images/fd262680-b0e1-41e0-bd03-6f9ea2b0c4e8/image.png" alt="C++ Essentials 1" width="95"> | <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics" width="95"> | <img src="https://images.credly.com/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Network Support and Security" width="95"> |
-| **Junior Cybersecurity Analyst** | **C++ Essentials** | **Networking Basics** | **Network Support and Security** |
+| <a href="https://www.credly.com/earner/earned/badge/185c9d6c-77c7-4bfe-b45f-f7b5e52e97ae" target="_blank"><img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" alt="Junior Cybersecurity Analyst Badge" width="95"></a> | <a href="https://www.credly.com/earner/earned/badge/3d4b93b6-b45c-437d-8794-927b36a65b5c" target="_blank"><img src="https://images.credly.com/images/fd262680-b0e1-41e0-bd03-6f9ea2b0c4e8/image.png" alt="C++ Essentials 1" width="95"></a> | <a href="https://www.credly.com/earner/earned/badge/f262460c-1edc-4a70-8a8a-0821cee5e45c" target="_blank"><img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics" width="95"></a> | <a href="https://www.credly.com/earner/earned/badge/568547b2-6378-4028-9f4c-72aefb1b137a" target="_blank"><img src="https://images.credly.com/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Network Support and Security" width="95"></a> |
+| **[Junior Cybersecurity Analyst](https://www.credly.com/earner/earned/badge/185c9d6c-77c7-4bfe-b45f-f7b5e52e97ae)** | **[C++ Essentials](https://www.credly.com/earner/earned/badge/3d4b93b6-b45c-437d-8794-927b36a65b5c)** | **[Networking Basics](https://www.credly.com/earner/earned/badge/f262460c-1edc-4a70-8a8a-0821cee5e45c)** | **[Network Support and Security](https://www.credly.com/earner/earned/badge/568547b2-6378-4028-9f4c-72aefb1b137a)** |
 
 </div>
 
