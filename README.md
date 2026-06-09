@@ -30,7 +30,7 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 ## Certificates & Badges
 <div align="center">
 
-### Major Certification
+### Major Certifications
 <a href="https://www.credly.com/badges/01225a20-dd97-4629-8994-0f22be5b3d9f" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" alt="Python Badge" width="120" style="margin-bottom: 20px;"/>
 </a>
