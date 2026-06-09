@@ -1,6 +1,6 @@
 <div align="center">
 
-# under construction
+# under construction 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Hi!+I'm+Jazztinn%2C+exploring+CS+at+LPU-C.;I'm+a+self+proclaimed+'creator'.;I+like+building+awesome+things.;Reach+out!" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 ---
 
-## Stack
+<center> ## Stack </center>
 <div align="center">
 
 | Category | Technologies |
@@ -29,7 +29,7 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 ---
 
-## Certificates & Badges
+<center> ## Certificates & Badges </center>
 <div align="center">
 
 ### Major Certifications
@@ -37,7 +37,7 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
   <img src="https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" alt="Python Badge" width="120" style="margin-bottom: 20px;"/>
 </a>
 
-### Minor Certifications
+<center> ### Minor Certifications </center>
 <br>
 
 | | | | |
