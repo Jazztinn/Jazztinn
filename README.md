@@ -16,13 +16,12 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 ## Stack
 | Category | Technologies |
-| :--- | :--- |
+| :---: | :---: |
 | **Languages** | [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java,python,nodejs&perline=7)](https://skillicons.dev) |
 | **Frameworks** | [![Frameworks](https://skillicons.dev/icons?i=react,vite&perline=7)](https://skillicons.dev) |
 | **Data & Cloud** | [![Data](https://skillicons.dev/icons?i=supabase,mysql,firebase,azure,gcp&perline=7)](https://skillicons.dev) |
 | **Tools & Design** | [![Tools](https://skillicons.dev/icons?i=figma,ps,pr,godot,blender,notion&perline=9)](https://skillicons.dev) |
 | **Environment** | [![Env](https://skillicons.dev/icons?i=windows,apple,ubuntu&perline=7)](https://skillicons.dev) |
----
 
 ## Certificates & Badges
 <div align="center">
