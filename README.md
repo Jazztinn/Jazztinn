@@ -10,17 +10,46 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 </div>
 
+---
+
 <div align="center">
 
-## Stack
+## Tech Stack
 
-| Category | Technologies |
-| :---: | :---: |
-| **Languages** | [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java,python,nodejs&perline=7)](https://skillicons.dev) |
-| **Frameworks** | [![Frameworks](https://skillicons.dev/icons?i=react,vite&perline=7)](https://skillicons.dev) |
-| **Data & Cloud** | [![Data](https://skillicons.dev/icons?i=supabase,mysql,firebase,azure,gcp&perline=7)](https://skillicons.dev) |
-| **Tools & Design** | [![Tools](https://skillicons.dev/icons?i=figma,ps,pr,godot,blender,notion&perline=9)](https://skillicons.dev) |
-| **Environment** | [![Env](https://skillicons.dev/icons?i=windows,apple,ubuntu&perline=7)](https://skillicons.dev) |
+### Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,nodejs&perline=7" alt="Languages" />
+  </a>
+</p>
+
+### Frameworks & Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite&perline=7" alt="Frameworks" />
+  </a>
+</p>
+
+### AI, ML & Cloud
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,mysql,firebase,azure,gcp&perline=7" alt="Data & Cloud" />
+  </a>
+</p>
+
+### Tools & Design
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,pr,godot,blender,notion&perline=9" alt="Tools & Design" />
+  </a>
+</p>
+
+### Environments
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu&perline=7" alt="Environments" />
+  </a>
+</p>
 
 </div>
 
