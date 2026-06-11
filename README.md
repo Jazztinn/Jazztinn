@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Hi!+I'm+Jazztinn%2C+exploring+CS+at+LPU-C.;I'm+a+self+proclaimed+'creator'.;I+like+building+awesome+things.;Reach+out!" alt="Typing SVG" />
 
-I'm a self-proclaimed "creator", and I like building awesome things. Reach out!
+I'm innately a 'creator', and I like building awesome things. Reach out!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jazztinn-black?style=flat-square&logo=github)](https://github.com/Jazztinn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jazztinn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jazztinn/)
