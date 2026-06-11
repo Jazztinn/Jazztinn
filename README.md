@@ -10,8 +10,6 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 </div>
 
----
-
 <div align="center">
 
 ## Stack
