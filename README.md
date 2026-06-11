@@ -36,10 +36,10 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 
 ### Major Certifications
 
-| | |
-| :---: | :---: |
-| <a href="https://www.credly.com/earner/earned/badge/01225a20-dd97-4629-8994-0f22be5b3d9f" target="_blank"><img src="https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" alt="Python Badge" width="120"/></a> | <a href="https://www.credly.com/badges/46ec99ba-52dd-4d2e-be40-3012550df981/linked_in_profile" target="_blank"><img src="https://images.credly.com/size/680x680/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" alt="Google Cybersecurity Badge" width="120"/></a> |
-| **[Information Technology Specialist: Python](https://www.credly.com/earner/earned/badge/01225a20-dd97-4629-8994-0f22be5b3d9f)** | **[Google Cybersecurity Professional](https://www.credly.com/badges/46ec99ba-52dd-4d2e-be40-3012550df981/linked_in_profile)** |
+| | | |
+| :---: | :---: | :---: |
+| <a href="https://www.credly.com/earner/earned/badge/01225a20-dd97-4629-8994-0f22be5b3d9f" target="_blank"><img src="https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" alt="Python Badge" width="120"/></a> | <a href="https://www.credly.com/badges/46ec99ba-52dd-4d2e-be40-3012550df981/linked_in_profile" target="_blank"><img src="https://images.credly.com/size/680x680/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" alt="Google Cybersecurity Badge" width="120"/></a> | <a href="https://www.credly.com/earner/earned/badge/2a8ccf47-e763-40fd-8554-d477e3ba9ac3" target="_blank"><img src="https://images.credly.com/size/680x680/images/68508264-ec6e-47cf-a8c1-94d86f2573fb/blob" alt="Google Project Management Badge" width="120"/></a> |
+| **[Information Technology Specialist: Python](https://www.credly.com/earner/earned/badge/01225a20-dd97-4629-8994-0f22be5b3d9f)** | **[Google Cybersecurity Professional](https://www.credly.com/badges/46ec99ba-52dd-4d2e-be40-3012550df981/linked_in_profile)** | **[Google Project Management Professional](https://www.credly.com/earner/earned/badge/2a8ccf47-e763-40fd-8554-d477e3ba9ac3)** |
 
 <br>
 
