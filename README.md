@@ -1,6 +1,6 @@
 <div align="center">
 
-# under construction 
+# under construction
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Hi!+I'm+Jazztinn%2C+exploring+CS+at+LPU-C.;I'm+a+self+proclaimed+'creator'.;I+like+building+awesome+things.;Reach+out!" alt="Typing SVG" />
 
@@ -25,6 +25,16 @@ I'm a self proclaimed "creator", and I like building awesome things. Reach out!
 | **Data & Cloud** | [![Data](https://skillicons.dev/icons?i=supabase,mysql,firebase,azure,gcp&perline=7)](https://skillicons.dev) |
 | **Tools & Design** | [![Tools](https://skillicons.dev/icons?i=figma,ps,pr,godot,blender,notion&perline=9)](https://skillicons.dev) |
 | **Environment** | [![Env](https://skillicons.dev/icons?i=windows,apple,ubuntu&perline=7)](https://skillicons.dev) |
+
+</div>
+
+---
+
+<div align="center">
+
+## Streak
+
+<img src="https://streak-stats.demolab.com/?user=Jazztinn&theme=tokyonight&hide_border=true&background=1A1A2E&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" alt="GitHub Streak Stats" />
 
 </div>
 
