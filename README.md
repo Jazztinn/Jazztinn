@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Hi!+I'm+Jazztinn%2C+exploring+CS+at+LPU-C.;I'm+a+self+proclaimed+'creator'.;I+like+building+awesome+things.;Reach+out!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Hi!+I'm+Jazztinn%2C+exploring+CS+at+LPU-C.;I'm+innately+a+'creator',+and+I+like+building+awesome+things.;Reach+out!" alt="Typing SVG" />
 
 I'm innately a 'creator', and I like building awesome things. Reach out!
 
